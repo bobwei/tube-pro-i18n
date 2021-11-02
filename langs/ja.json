@@ -118,8 +118,8 @@
   "new update is available": "新しいアップデートが利用可能です！",
   "update": "アップデート",
   "paste": "ペースト",
-  "there is no content in your clipboard": "クリップボードにコンテンツはありません。",
-  "there is no content in your clipboard ": "クリップボードにコンテンツはありません。 動画または再生リストのURLをペーストすると広告なしで視聴できます",
+  "there is no content in your clipboard": "クリップボードにコンテンツがありません。",
+  "there is no content in your clipboard ": "クリップボードにコンテンツがありません。 動画または再生リストのURLをペーストすると広告なしで視聴できます",
   "captions": "字幕",
   "you can select multiple captions": "複数の字幕を選択できます",
   "loop": "ループ再生"
